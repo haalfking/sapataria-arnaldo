@@ -8,3 +8,4 @@ position: relative;}
 .home:hover::before,
 .home:hover::after{opacity: 1;}
 .home:hover{color: #31202b;text-shadow: none;}
+.pp{font-size: 15pt;}
