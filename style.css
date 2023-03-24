@@ -1,6 +1,6 @@
 .titulo{font-size: 50pt;color:brown;}
 .subtitulo{font-size: 35pt;color:chocolate;}
-body{background-image: url("istockphoto-858708260-612x612.jpg");color: wheat;}
+body{background-color: black;}
 .home{font-size: 25pt;font-weight: 400;text-decoration: none;display: inline-block;
 color:blueviolet;padding: 16px 64px;border: blueviolet 8px solid;border-radius: 16px;box-shadow: inset 0 0 32px 0 blueviolet,0 0 32px 0 blueviolet;
 position: relative;}
@@ -8,4 +8,4 @@ position: relative;}
 .home:hover::before,
 .home:hover::after{opacity: 1;}
 .home:hover{color: #31202b;text-shadow: none;}
-.pp{font-size: 15pt;}
+.pp{font-size: 15pt;color: burlywood;}
