@@ -1,9 +1,25 @@
-.titulo{font-size: 50pt;color:brown;}
-.subtitulo{font-size: 35pt;color:chocolate;}
-.home{font-size: 35pt;color: blue;}
-.pp{font-size: 15pt;color: burlywood;}
-.banner{width:100%;height:500px;object-position: 0 0;}
-.menu{display: flex;
+.titulo{
+    font-size: 50pt;color:brown;
+}
+
+.subtitulo{
+    font-size: 35pt;color:chocolate;
+}
+
+.home{
+    font-size: 35pt;color: blue;
+}
+
+.pp{
+    font-size: 15pt;color: burlywood;
+}
+
+.banner{
+    width:100%;height:500px;object-position: 0 0;
+}
+
+.menu{
+    display: flex;
     justify-content: space-around;
     background-color: chocolate;
     padding: 15px;font-size: 20px; text-transform: uppercase;
