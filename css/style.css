@@ -9,3 +9,11 @@
         width: 100%;
         justify-content: space-around;
     }
+.menu ul li {
+        font-size: 20px;
+        background-color: var(--sub-color);
+        border: none;
+        color: var(--letter-color);
+        text-transform: uppercase;
+        padding: 25px;
+    }
