@@ -1,11 +1,4 @@
 
-header {
-   
-}
-.titulo{
-      
-      }
-
 
 .subtitulo{
     margin: 10px auto 10px;
@@ -17,11 +10,6 @@ header {
 .home{
     font-size: 35pt;color: blue;
 }
-
-.pp{
-    
-}
-
 .banner{
     width:100%;height:500px;object-position: 0 0;
 }
@@ -46,13 +34,6 @@ header {
     padding: 25px;
     cursor: pointer;
 }
-    header {
-        display: flex;
-        flex-direction: row-reverse;
-        justify-content: space-between;
-        background-color: var(--principal-color);
-        height: 70px;
-    }
 
     /* Página de contato */
 .container {
