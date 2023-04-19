@@ -27,9 +27,9 @@
     }
 .menu ul li {
     font-size: 20px;
-    background-color: burlywood;
+    background-color:burlywood;
     border: none;
-    color: blue;
+    color: black;
     text-transform: uppercase;
     padding: 25px;
     cursor: pointer;
