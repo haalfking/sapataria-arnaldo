@@ -1,21 +1,9 @@
-:root {
-    --color-de-fundo:burlywood;
-}
-header {
-    display: flex;
-    flex-direction: row-reverse;
-    justify-content: space-between;
-    background-color: var(--principal-color);
-    height: 70px;
-}
 
+header {
+   
+}
 .titulo{
-        margin: 40px auto 10px; /*margin: top right bottom left; */
-        padding-left: 10px;
-        width: 80%;
-        font-size: 24pt;
-        font-weight: 700;
-        color: var(--primary-color); /* Código hexadecimal da cor */
+      
       }
 
 
@@ -31,7 +19,7 @@ header {
 }
 
 .pp{
-    font-size: 15pt;color: burlywood;
+    
 }
 
 .banner{
