@@ -48,3 +48,18 @@
         background-color: var(--principal-color);
         height: 70px;
     }
+
+    /* Página de contato */
+.container {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .container img {
+    width: 200px;
+  }
+  
+  .container h3 {
+    font-size: 14pt;
+    font-weight: 600;
+  }
