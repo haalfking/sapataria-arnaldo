@@ -6,7 +6,9 @@ body {
     background-repeat: no-repeat;
     font-family: Cormorant Garamond, sans-serif;
 }
-
+.titulo{ 
+    font-size:35pt;
+}
 .subtitulo{
     margin: 10px auto 10px;
   padding-left: 10px;
