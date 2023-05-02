@@ -39,7 +39,7 @@ body {
     
 }
 
-.menu ul li{
+.menu li{
     font-size: 20px;
     background-color:rgb(197, 141, 67);
     border: none;
@@ -49,13 +49,13 @@ body {
     border-radius: 10px;
 }
 
-.menu ul li a{
+.menu a{
     color:brown;
     border: none;
     padding: 20px;
     text-decoration: none;
 }
-.menu ul li:hover {
+.menu a :hover {
     background-color:rgb(214, 157, 82);
 }
 
@@ -73,3 +73,24 @@ body {
     font-size: 14pt;
     font-weight: 600;
   }
+button {
+    line-height: 1.5;
+    box-shadow: #c0c1c2 2px 2px 2px;
+    border-radius: 2px;
+    border: none;
+  }
+select {
+    height: 1.4rem;
+    margin: 5px 0;
+  }
+textarea {
+    resize: none;
+    height: 4rem;
+  }
+.contact-form textarea,
+.contact-form select,
+.contact-form button {
+    width: 100%;
+    margin: 5px 0;
+    box-sizing: border-box;
+}
