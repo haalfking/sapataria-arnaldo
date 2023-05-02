@@ -55,7 +55,7 @@ body {
     padding: 20px;
     text-decoration: none;
 }
-.menu a :hover {
+.menu ul :hover {
     background-color:rgb(214, 157, 82);
 }
 
